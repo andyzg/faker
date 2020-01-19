@@ -1,0 +1,15 @@
+{
+  "name": "faker",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "author": "andyzg",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
